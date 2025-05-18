@@ -41,7 +41,7 @@ The goal of this project is to:
 
 ## Project Architecture
 
-![Project Architecture](path_to_your_image/project_architecture.png)
+![Project Architecture](https://github.com/Kaushik-Puttaswamy/Zomato-Restaurant-Clustering-and-Sentiment-Analysis/blob/dev/Project%20Architecture.png)
 
 ---
 
