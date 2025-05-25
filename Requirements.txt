@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scipy
+scikit-learn
+xgboost
+nltk
+gensim
+shap
+contractions
